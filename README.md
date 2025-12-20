@@ -13,12 +13,11 @@ This project was developed as part of my portfolio to showcase skills in Go prog
 - [x] 3. Pub-Sub with JSON: Handles structured data (JSON) in publish-subscribe scenarios.
 - [x] 4. Wildcard Subscriptions: Shows how to use wildcards for flexible topic matching.
 - [x] 5. Request-Reply Pattern: Implements synchronous request-response communication.
-- [ ] 6. Multiple Repliers (Load Balancing)
+- [x] 6. Multiple Repliers (Load Balancing)
 - [ ] 7. Queue Groups
-- [ ] 8. Production Worker Pool
-- [ ] 9. JetStream with Go
-- [ ] 10. Retry with Exponential Backoff
-- [ ] 11. Circuit Breaker Pattern
+- [ ] 8. JetStream with Go
+- [ ] 9. Retry with Exponential Backoff
+- [ ] 10. Circuit Breaker Pattern
 
 ## Technologies Used
 
