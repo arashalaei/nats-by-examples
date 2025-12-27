@@ -14,7 +14,7 @@ This project was developed as part of my portfolio to showcase skills in Go prog
 - [x] 4. Wildcard Subscriptions: Shows how to use wildcards for flexible topic matching.
 - [x] 5. Request-Reply Pattern: Implements synchronous request-response communication.
 - [x] 6. Multiple Repliers (Load Balancing)
-- [ ] 7. Queue Groups
+- [x] 7. Queue Groups
 - [ ] 8. JetStream with Go
 - [ ] 9. Retry with Exponential Backoff
 - [ ] 10. Circuit Breaker Pattern
